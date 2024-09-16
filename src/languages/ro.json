@@ -1,0 +1,11 @@
+{
+    "exploreHeader": "Explorează",
+    "welcomeDescription": "Aceasta este o aplicație demo pentru un site web multilingv cu React Context API",
+    "clickMe": "Apasă-mă",
+    "aboutMe": "Pentru mai multe informații despre autor",
+    "buttonClicked": "Ai apăsat butonul!",
+    "enterText": "Te rog să introduci răspunsul tău",
+    "option1": "Opțiunea 1",
+    "option2": "Opțiunea 2",
+    "option3": "Opțiunea 3"
+  }
